@@ -1,6 +1,31 @@
+@font-face{
+    font-family: "Barlow";
+    src: url("Fonts/Barlow/BarlowSemiCondensed-ExtraLightItalic.ttf");
+
+    font-weight: lighter;
+}
+
+
+
 h1{
-    color: red;
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif
 }
 h3{
     color:green;
+    font-family: Arial, Helvetica, sans-serif
+    
+}
+p{
+    color: blue;
+    font-family: "Barlow";
+    font-size: 20px;
+    text-align: justify;
+    text-transform: uppercase;
+    line-height: 50px;
+
+}
+img {
+    width: 200px;
+
 }
