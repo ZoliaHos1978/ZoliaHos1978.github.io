@@ -44,6 +44,19 @@ h3{
 #Zárás{
     text-align: left;
 }
+#Megy{
+    width: 20%;
+    margin: 6%;
+}
+#Paprika
+{
+    width: 20%;
+    margin: 6%;
+}
+#Répa{
+    width: 20%;
+    margin: 6%;
+}
 h4,h5,h6{
     color:grey;
     font-family: 'Roboto', sans-serif;
