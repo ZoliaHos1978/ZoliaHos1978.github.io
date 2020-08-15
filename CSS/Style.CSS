@@ -27,6 +27,23 @@ h3{
     color: red;
     font-size: 50px;
 }
+#Főétel{
+    color: red;
+    font-size: 50px;
+}
+#Űdítők{
+    color: red;
+    font-size: 50px;
+}
+#Nap{
+    text-align: left;
+}
+#Nyítás{
+    text-align: left;
+}
+#Zárás{
+    text-align: left;
+}
 h4,h5,h6{
     color:grey;
     font-family: 'Roboto', sans-serif;
