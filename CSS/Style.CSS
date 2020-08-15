@@ -5,20 +5,35 @@
     font-weight: lighter;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,600&family=Roboto&display=swap');
 
 
-h1{
-    color: blueviolet;
-    font-family: Arial, Helvetica, sans-serif
+
+h1,h2{
+    color: brown;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+
 }
-h3{
-    color:green;
-    font-family: Arial, Helvetica, sans-serif
+#bemutatkozás{
+    Color: green;
+    font-family: 'Roboto', sans-serif;
+}
+#képesség{
+    Color:Yellow;
+}
+#levesek{
+    color: red;
+}
+h4,h5,h6{
+    color:grey;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
     
 }
 p{
-    color: blue;
-    font-family: "Barlow";
+    color: grey;
+    font-family: 'Roboto', sans-serif;
     font-size: 20px;
     text-align: justify;
     text-transform: uppercase;
