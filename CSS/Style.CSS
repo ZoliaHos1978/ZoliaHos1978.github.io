@@ -13,17 +13,19 @@ h1,h2{
     color: brown;
     font-family: 'Open Sans', sans-serif;
     text-align: center;
-
+}
+h3{
+    font-family: 'Roboto', sans-serif;
 }
 #bemutatkozás{
     Color: green;
-    font-family: 'Roboto', sans-serif;
 }
 #képesség{
     Color:Yellow;
 }
 #levesek{
     color: red;
+    font-size: 50px;
 }
 h4,h5,h6{
     color:grey;
@@ -31,14 +33,23 @@ h4,h5,h6{
     text-align: center;
     
 }
-p{
+.content{
     color: grey;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
     text-align: justify;
-    text-transform: uppercase;
     line-height: 50px;
 
+}
+.bold{
+    font-weight: bold;
+}
+.img-div{
+background-color: khaki;
+
+}
+.light{
+    background-color: lawngreen;
 }
 img {
     width: 200px;
