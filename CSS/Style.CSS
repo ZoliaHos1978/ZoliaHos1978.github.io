@@ -10,7 +10,13 @@
 html{
     background-color: rgb(212, 235, 232);
 }
-
+ul{
+    text-align: center ;
+}
+li{
+    display: inline;
+    border: solid 2px greenyellow;
+}
 
 h1,h2{
     color:rgb(97, 122, 97);
