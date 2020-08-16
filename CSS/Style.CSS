@@ -7,15 +7,21 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,600&family=Roboto&display=swap');
 
+html{
+    background-color: rgb(212, 235, 232);
+}
 
 
 h1,h2{
-    color: brown;
+    color:rgb(97, 122, 97);
     font-family: 'Open Sans', sans-serif;
     text-align: center;
 }
 h3{
+   color: blue;
     font-family: 'Roboto', sans-serif;
+    text-align: center;
+
 }
 #bemutatkozás{
     Color: green;
@@ -25,15 +31,18 @@ h3{
 }
 #levesek{
     color: red;
-    font-size: 50px;
+    font-size: 25px;
+    border: solid 1px blueviolet;
 }
 #Főétel{
     color: red;
-    font-size: 50px;
+    font-size: 25px;
+    border: solid 1px blueviolet;
 }
-#Űdítők{
+#Űdítők{ 
     color: red;
-    font-size: 50px;
+    font-size: 25px;
+    border: solid 1px blueviolet;
 }
 #Nap{
     text-align: left;
@@ -45,17 +54,21 @@ h3{
     text-align: left;
 }
 #Megy{
-    width: 20%;
-    margin: 6%;
+    width: 15%;
+    margin: 4.87%;
 }
 #Paprika
 {
-    width: 20%;
-    margin: 6%;
+    width: 15%;
+    margin: 4.87%;
 }
 #Répa{
-    width: 20%;
-    margin: 6%;
+    width: 15%;
+    margin: 4.87%;
+}
+#Faloda{
+    width: 15%;
+    margin:4.87%;
 }
 h4,h5,h6{
     color:grey;
@@ -68,9 +81,14 @@ h4,h5,h6{
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
     text-align: justify;
-    line-height: 50px;
-    margin: 10px 10px;
+    line-height: 40px;
 
+    margin: 10px 10px;
+    background-color: darkgreen;
+
+}
+.Term-1{
+    border: solid 1px yellowgreen;
 }
 .bold{
     font-weight: bold;
@@ -92,5 +110,5 @@ img {
 position: static;
 }
 #img-2{
-    width: 300px;
+    width: 200px;
 }
