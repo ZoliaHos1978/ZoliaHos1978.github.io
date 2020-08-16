@@ -16,11 +16,13 @@ h1,h2{
     color:rgb(97, 122, 97);
     font-family: 'Open Sans', sans-serif;
     text-align: center;
+    
 }
 h3{
    color: blue;
     font-family: 'Roboto', sans-serif;
     text-align: center;
+    border-top: solid 1px brown;
 
 }
 #bemutatkozás{
@@ -33,16 +35,19 @@ h3{
     color: red;
     font-size: 25px;
     border: solid 1px blueviolet;
+    background-color: wheat;
 }
 #Főétel{
     color: red;
     font-size: 25px;
     border: solid 1px blueviolet;
+    background-color: wheat;
 }
 #Űdítők{ 
     color: red;
     font-size: 25px;
     border: solid 1px blueviolet;
+    background-color: wheat;
 }
 #Nap{
     text-align: left;
@@ -89,6 +94,8 @@ h4,h5,h6{
 }
 .Term-1{
     border: solid 1px yellowgreen;
+    text-align: center;
+    background-color: thistle;
 }
 .bold{
     font-weight: bold;
