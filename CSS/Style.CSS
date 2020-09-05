@@ -17,6 +17,20 @@ li{
     display: inline;
     border: solid 2px greenyellow;
 }
+.egyesTabla{
+    background-color: red;
+    border-collapse: collapse;
+}
+.egyesTabla thead{
+    border: solid 3px green;
+    background-color: khaki;
+}
+td{
+    background-color: hotpink;
+    border-collapse: collapse;
+    border-top: solid 1px white;
+    text-align: center;
+}
 
 h1,h2{
     color:rgb(97, 122, 97);
